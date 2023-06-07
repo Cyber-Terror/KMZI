@@ -1,0 +1,57 @@
+D:\job\bgtu\stego\sword\sword\bin\Debug\sword.exe
+D:\job\bgtu\stego\sword\sword\bin\Debug\sword.pdb
+D:\job\bgtu\stego\sword\sword\obj\Debug\ResolveAssemblyReference.cache
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Properties.Resources.resources
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.csproj.GenerateResource.Cache
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.exe
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.pdb
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Sword.resources
+D:\job\bgtu\stego\sword\sword\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\job\bgtu\stego\sword\sword\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\job\bgtu\stego\sword\sword\bin\Debug\office.dll
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Preloader.resources
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.Form1.resources
+D:\job\bgtu\stego\sword\sword\obj\Debug\sword.UserControl1.resources
+D:\job\bgtu\stego\sword\sword\bin\Debug\MarkTextField.pdb
+i:\back\stego\sword\sword\obj\Debug\sword.exe
+i:\back\stego\sword\sword\obj\Debug\sword.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\sword.exe.config
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.exe
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\sword.exe
+d:\sword\sword_2012.11.08\sword\bin\Debug\sword.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\Microsoft.Office.Interop.Word.dll
+d:\sword\sword_2012.11.08\sword\bin\Debug\office.dll
+d:\sword\sword_2012.11.08\sword\bin\Debug\Microsoft.Vbe.Interop.dll
+d:\sword\sword_2012.11.08\sword\bin\Debug\MarkTextField.pdb
+d:\sword\sword_2012.11.08\sword\bin\Debug\Microsoft.Office.Interop.Word.xml
+d:\sword\sword_2012.11.08\sword\bin\Debug\office.xml
+d:\sword\sword_2012.11.08\sword\obj\Debug\ResolveAssemblyReference.cache
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Form1.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Preloader.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Properties.Resources.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.Sword.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\sword.UserControl1.resources
+d:\sword\sword_2012.11.08\sword\obj\Debug\GenerateResource.read.1.tlog
+d:\sword\sword_2012.11.08\sword\obj\Debug\GenerateResource.write.1.tlog
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\sword.exe.config
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\sword.exe
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\sword.pdb
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\office.dll
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\stdole.dll
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\MarkTextField.pdb
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\bin\Debug\office.xml
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Form1.resources
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Preloader.resources
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Properties.Resources.resources
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.Sword.resources
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.UserControl1.resources
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.GenerateResource.cache
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.csproj.CopyComplete
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.exe
+C:\University_work\3k2sem\Cryptography\Lab15\sword_2012.11.08 (рабочая)\sword\obj\Debug\sword.pdb

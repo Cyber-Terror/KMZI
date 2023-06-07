@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRBykRuxPpXrTTvRPZeehTzD7PHZWPX5/4/Bp4mGEcwewCVrSdMTDFLRTDI3iN5FsyU31XPOAU9Vdoe3qwy+yg==",
+  "success": true,
+  "projectFilePath": "C:\\University_work\\3k2sem\\Cryptography\\Lab5\\Lab5\\Lab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

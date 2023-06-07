@@ -1,0 +1,31 @@
+﻿<Window x:Class="lw9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lw9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="490.676" Width="488.649" ResizeMode="NoResize">
+    <Grid Background="#FCCAEE" Height="490" VerticalAlignment="Top" Margin="0,0,0,-19">
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" TextWrapping="Wrap" Text="Генерация сверхвозрастающей последовательности" VerticalAlignment="Top" Width="416"
+                   FontSize="17"/>
+        <TextBox Name="task1result" HorizontalAlignment="Left" Height="50" Margin="12,43,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="290"/>
+        <Button Content="Сгенирировать" HorizontalAlignment="Left" Height="36" Margin="338,49,0,0" VerticalAlignment="Top" Width="114" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="10,98,0,0" TextWrapping="Wrap" Text="Нормальная последовательность" VerticalAlignment="Top" Width="416"
+            FontSize="17"/>
+        <TextBox x:Name="task2result" HorizontalAlignment="Left" Height="50" Margin="12,128,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="290"/>
+        <Button x:Name="bTask2" Content="Получить" HorizontalAlignment="Left" Height="36" Margin="338,134,0,0" VerticalAlignment="Top" Width="114" Click="bTask2_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="10,187,0,0" TextWrapping="Wrap" Text="Введите текст для зашифрования" VerticalAlignment="Top" Width="416"
+            FontSize="17"/>
+        <TextBox x:Name="encodeText" HorizontalAlignment="Left" Height="61" Margin="12,215,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="290" VerticalScrollBarVisibility="Auto"/>
+        <Button x:Name="encodeB" Content="Зашифровать" HorizontalAlignment="Left" Height="36" Margin="338,218,0,0" VerticalAlignment="Top" Width="114" Click="encodeB_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="10,279,0,0" TextWrapping="Wrap" Text="Зашифрованный текст" VerticalAlignment="Top" Width="416"
+            FontSize="17"/>
+        <TextBox x:Name="decodeTexr" HorizontalAlignment="Left" Height="62" Margin="12,309,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="290"/>
+        <Button x:Name="decodeB" Content="Расшифровать" HorizontalAlignment="Left" Height="36" Margin="338,319,0,0" VerticalAlignment="Top" Width="114" Click="decodeB_Click" />
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="289,385,0,0" TextWrapping="Wrap" Text="Время выполнения" VerticalAlignment="Top" Width="416"
+            FontSize="15"/>
+        <TextBlock  x:Name="timeWork" HorizontalAlignment="Left" Height="31" Margin="289,410,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="163" Background="White"/>
+
+    </Grid>
+</Window>

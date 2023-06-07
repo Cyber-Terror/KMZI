@@ -1,0 +1,15 @@
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+C:\University_work\3k2sem\Cryptography\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll

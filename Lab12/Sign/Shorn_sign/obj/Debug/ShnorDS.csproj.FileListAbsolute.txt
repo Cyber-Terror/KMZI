@@ -1,0 +1,8 @@
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\obj\Debug\ShnorDS.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\obj\Debug\ShnorDS.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\obj\Debug\ShnorDS.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+C:\University_work\3k2sem\Cryptography\Lab12\222\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb

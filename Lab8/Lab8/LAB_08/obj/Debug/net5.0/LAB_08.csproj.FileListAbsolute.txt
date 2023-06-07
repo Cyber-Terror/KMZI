@@ -1,0 +1,16 @@
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\bin\Debug\net5.0\LAB_08.exe
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\bin\Debug\net5.0\LAB_08.deps.json
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\bin\Debug\net5.0\LAB_08.runtimeconfig.json
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\bin\Debug\net5.0\LAB_08.runtimeconfig.dev.json
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\bin\Debug\net5.0\LAB_08.dll
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\bin\Debug\net5.0\LAB_08.pdb
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.AssemblyInfoInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.AssemblyInfo.cs
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.dll
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\refint\LAB_08.dll
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.pdb
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\LAB_08.genruntimeconfig.cache
+C:\University_work\3k2sem\Cryptography\Lab8\Lab8\LAB_08\obj\Debug\net5.0\ref\LAB_08.dll

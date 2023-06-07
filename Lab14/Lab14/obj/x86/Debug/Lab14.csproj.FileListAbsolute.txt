@@ -1,0 +1,11 @@
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\bin\Debug\StegProject.exe.config
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\bin\Debug\StegProject.exe
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\bin\Debug\StegProject.pdb
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab14.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab14.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.Lab15.resources
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.Properties.Resources.resources
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab14.csproj.GenerateResource.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.exe
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.pdb

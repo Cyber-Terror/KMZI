@@ -1,0 +1,8 @@
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe.config
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.exe
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\bin\Debug\Ell-Gamal_sign.pdb
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\obj\Debug\ElGamalDS.csproj.AssemblyReference.cache
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\obj\Debug\ElGamalDS.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\obj\Debug\ElGamalDS.csproj.CoreCompileInputs.cache
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.exe
+D:\Downloads\2_3_12\Lab12\Lab12\Sign\Ell-Gamal_sign\obj\Debug\Ell-Gamal_sign.pdb

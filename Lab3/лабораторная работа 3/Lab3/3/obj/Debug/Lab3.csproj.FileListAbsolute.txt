@@ -1,0 +1,8 @@
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\bin\Debug\3.exe.config
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\bin\Debug\3.exe
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\bin\Debug\3.pdb
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\obj\Debug\3.exe
+C:\University_work\3k2sem\Cryptography\Lab3\лабораторная работа 3\Lab3\3\obj\Debug\3.pdb

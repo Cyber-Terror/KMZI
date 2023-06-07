@@ -1,0 +1,33 @@
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\bin\Debug\StegProject.exe.config
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\bin\Debug\StegProject.exe
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\bin\Debug\StegProject.pdb
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\Lab15.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\Lab15.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\StegProject.Properties.Resources.resources
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\Lab15.csproj.GenerateResource.cache
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\StegProject.exe
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\StegProject.pdb
+C:\University_work\3k2sem\check\14\12 - Стегано\LSB\obj\x86\Debug\StegProject.Lab15.resources
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\Lab15.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\Lab15.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\StegProject.Lab15.resources
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\StegProject.Properties.Resources.resources
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\Lab15.csproj.GenerateResource.cache
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\StegProject.exe
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\obj\x86\Debug\StegProject.pdb
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\bin\Debug\StegProject.exe.config
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\bin\Debug\StegProject.exe
+C:\University_work\3k2sem\Cryptography\Lab14\LSB\bin\Debug\StegProject.pdb
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\bin\Debug\StegProject.exe.config
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\bin\Debug\StegProject.exe
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\bin\Debug\StegProject.pdb
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab15.csproj.AssemblyReference.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab15.csproj.SuggestedBindingRedirects.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.Lab15.resources
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.Properties.Resources.resources
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab15.csproj.GenerateResource.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.exe
+C:\University_work\3k2sem\Cryptography\Lab14\Lab14\obj\x86\Debug\StegProject.pdb
